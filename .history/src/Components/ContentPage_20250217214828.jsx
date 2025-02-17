@@ -2,8 +2,8 @@ import HomePage from "../Pages/HomePage"
 import Page2 from "../Pages/Page2"
 import Page3 from "../Pages/Page3"
 import Page4 from "../Pages/page4"
-import Page5 from "../Pages/Page5"
-import Page6 from "../Pages/page6"
+import Page5 from "../Pages/page"
+import Page6 from "../Pages/HomePage"
 
 
 function ContentPage() {
