@@ -1,3 +1,4 @@
+import HomePage from './Pages/HomePage.jsx'
 import NavBar from './Components/NavBar.jsx'
 import SiderBar from './Components/SideBar.jsx'
 import ContentPage from './Components/ContentPage.jsx'
